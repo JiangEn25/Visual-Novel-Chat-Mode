@@ -6,4 +6,8 @@ Documentation in this website , https://www.renpy.org/doc/html/
 
 main file is called script.rpy in game folder
 
-This story can still be expanded.
+You can create your own Live2D character.
+
+The system response time can also be optimized by deploying local large models and establishing connections.
+
+You can provide some prompt words to the AI regarding the plot and characters.
